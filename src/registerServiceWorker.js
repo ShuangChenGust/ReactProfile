@@ -7,6 +7,9 @@
 
 // To learn more about the benefits of this model, read https://goo.gl/KwvDNy.
 // This link also includes instructions on opting out of this behavior.
+//https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
+//The services workers is used to Using a Service worker you can easily set an app up to use cached assets first, 
+//thus providing a default experience even when offline, before then getting more data from the network (commonly known as Offline First)
 
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||

@@ -18,8 +18,12 @@ class App extends Component {
       foo: 'bar',
       resumeData: {}
     };
+//Use Google analytics in React     初始化：
+// 在根组件中，通过运行来初始化：
+//     报告页面视图：Documents"https://www.npmjs.com/package/react-ga
+//Set your GA id here, you can find from your GA account:
 
-    ReactGA.initialize('UA-110570651-1');
+    ReactGA.initialize('UA-155981299-1');
     ReactGA.pageview(window.location.pathname);
 
   }

@@ -1,16 +1,16 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Shuang Chen",
+    "occupation":"Front-end UI developer",
+    "description":", with hands-on experience on building web applications, currently focused on React, Node.Js, SQL/NonSQL databases and unit testing| Python, Javascript, TypeScript, Java",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "bio":"I am Shuang Chen, a front-end software developer. Focused on React, Node.Js recently. I am an open-mind person and always willing to learn new stuffs.",
+    "contactmessage":"Feel free to drop me an mail about the SD openings! Actinvely seeking jobs",
+    "email": "guschenwpi@gmail.com",
     "phone": "555-555-5555",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
+      "city":"",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
@@ -29,12 +29,12 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "url":"mailto:guschenwpi@gmail.com",
+        "className":"fa fa-envelope"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/shuang-chen-388548159/",
         "className":"fa fa-linkedin"
       },
       {
@@ -44,70 +44,76 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/ShuangChenGust",
         "className":"fa fa-github"
       },
       {
         "name":"skype",
         "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "className":"fa fa-newspaper-o"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Front-end development/ UI development/ Data Structure && Algorithm",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Worcester Polytechnic Institute",
+        "degree":"Masters of Science in Information Technology",
+        "graduated":"Summer 2020",
+        "description":"Merit-Based Scholar ship owner, GPA 3.85. Main Courses: Database development and Application, Machine learning on Business Application, System design and development, Algorihm and Data Structure"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"East China University of Science And Technology",
+        "degree":"BS in Business Management, MIS track",
+        "graduated":"Spring 2018",
+        "description":"3 years-scholorship owner, caption of Tennis team. Did workds related to different industry: E-commerce business owner, Education, Marketing, Teaching, Consulting, IT. Dare to make mistakes and always willing to learn."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Marlabs Inc",
+        "title":"Full-stack UI developer",
+        "years":"June 2020 - Present",
+        "description":"Analyzed clients' business logic and requirements, build single page application for clients in health care industry, based on MERN(MongoDB, Express.Js, React.Js, Node.Js) stack technologies, implement security features based on Node.Js"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Toucan Toco",
+        "title":"System development/ Data Analyst Intern",
+        "years":"Feb 2020 - May 2020",
+        "description":"Based on Clients' business mode, Creating Data visulization dashboards based on Mongo Charts/ D3.Js, integrating dashboards into Web-based Reports. Configuring and testing Python ODBC(open sources databases connectors) with databases."
+      },
+      {
+        "company":"Daimler China",
+        "title":"Strategy Consultant Intern ",
+        "years":"Dec 2017- Aug 2018",
+        "description":"Tracked the Market dynamic information via Python packages. Greatly decrease the workload of market information collection. Analyzed the Mercedes-Benz's competitors, including marketing strategy, financial and management status."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"JavaScript",
+        "level":"75%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"70%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Node.Js",
+        "level":"60%"
       },
       {
         "name":"MongoDB",
@@ -152,12 +158,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Stay Hungry, Stay Foolish",
+        "user":"Steve Jobs"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+        "user":"Samuel Beckett"
       }
     ]
   }
