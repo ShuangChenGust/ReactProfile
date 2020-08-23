@@ -53,3 +53,10 @@ class About extends Component {
 }
 
 export default About;
+//When doing git command with an orgin master: git remote rm origin
+
+// git remote -v It will not display any repository name
+
+// git remote add origin git@github.com:username/myapp.git
+
+// git push origin master It will start the process and creating the new branch. You can see your work is pushed to github.

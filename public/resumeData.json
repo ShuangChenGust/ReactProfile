@@ -7,21 +7,12 @@
     "bio":"I am Shuang Chen, a front-end software developer. Focused on React, Node.Js recently. I am an open-mind person and always willing to learn new stuffs.",
     "contactmessage":"Feel free to drop me an mail about the SD openings! Actinvely seeking jobs",
     "email": "guschenwpi@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "address":{
+        "street":"MA, USA"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://www.linkedin.com/in/shuang-chen-388548159/",
+    "resumedownload":"https://drive.google.com/file/d/1yAbBLVsOB1whj_X3mvSVXuRDN8KLPzhh/view?usp=sharing",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"twitter",
         "url":"http://twitter.com",
@@ -36,11 +27,6 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/shuang-chen-388548159/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -124,34 +110,35 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Patients Information System",
+        "category":"Projects for search/update patients information",
+        "image":"p2.png",
+        "url":"https://github.com/ShuangChenGust/PatientInformationSystem_React"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
+        "title":"WPI Funding Application System",
+        "category":"Funding Application system for WPI officers, easy for both Professor and adminstrators to track funding Applications",
+        "image":"wpi1.png",
+        "document":"https://drive.google.com/file/d/12b3gb-gbxdF-tCYhT0CzmVHYQmt-oA96/view?usp=sharing",
+        "url":"https://mis573f19pgroup3100-sandbox.mxapps.io/login.html?profile=Responsive"
+      },
+      {
+        "title":"Restaurant Menu React Project",
+        "category":"This is a Project to help restaurant owner to build their restaurant website",
+        "image":"res2.png",
+        "url":"https://github.com/ShuangChenGust/ShuangReactapp"
+      },
+      {
+        "title":"Mern_stack Login",
+        "category":"A MERN-stack project for designing login features based on MERN stack",
+        "image":"mern1.png",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Convinee Shop Android Application",
+        "category":"A project for convenince shop owner, based on android studio platform",
+        "image":"con1.png",
+        "url":"https://github.com/irisyeung0725/Convenie.git"
       }
     ]
   },
