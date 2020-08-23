@@ -139,6 +139,12 @@
         "category":"A project for convenince shop owner, based on android studio platform",
         "image":"con1.png",
         "url":"https://github.com/irisyeung0725/Convenie.git"
+      },
+      {
+        "title":"Personal Profile based on React.Js",
+        "category":"Personal profile, deploied by Github pages and React.js",
+        "image":"pro1.png",
+        "url":"https://github.com/ShuangChenGust/ReactProfile"
       }
     ]
   },
