@@ -1,0 +1,1 @@
+{"version":3,"sources":["Components/Portfolio.css"],"names":[],"mappings":"AAAA,cACI,eACA,YAAc","file":"static/css/main.7bf4d7e1.css","sourcesContent":[".portfolioimg {\n    max-width: 100%;\n    height: 140px;\n  }\n\n\n// WEBPACK FOOTER //\n// ./src/Components/Portfolio.css"],"sourceRoot":""}
