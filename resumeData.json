@@ -1,17 +1,17 @@
 {
   "main": {
-    "name":"Shuang Chen",
-    "occupation":"Front-end UI developer",
-    "description":", with hands-on experience on building web applications, currently focused on React, Node.Js, SQL/NonSQL databases and unit testing| Python, Javascript, TypeScript, Java",
-    "image":"profilepic.jpg",
-    "bio":"I am Shuang Chen, a front-end software developer. Focused on React, Node.Js recently. I am an open-mind person and always willing to learn new stuffs.",
-    "contactmessage":"Feel free to drop me an mail about the SD openings! Actinvely seeking jobs",
+    "name": "Shuang Chen",
+    "occupation": "Front-end UI developer",
+    "description": "with hands-on experience on building web applications, currently focused on React, React Native Node.Js, SQL/NonSQL databases and unit testing| Python, Javascript, TypeScript, Java",
+    "image": "profilepic.jpg",
+    "bio": "I am Shuang Chen, a front-end software developer. Focused on React, React Native and Node.Js recently. I am an open-mind person and always willing to learn new stuffs.",
+    "contactmessage": "Feel free to drop me an mail about the SD openings! Actinvely seeking jobs",
     "email": "guschenwpi@gmail.com",
-      "address":{
-        "street":"MA, USA"
+    "address": {
+      "street": "MA, USA"
     },
     "website": "https://www.linkedin.com/in/shuang-chen-388548159/",
-    "resumedownload":"https://drive.google.com/file/d/1yAbBLVsOB1whj_X3mvSVXuRDN8KLPzhh/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1v1kLjm9_HwJJeubzbbHvOXjZGfTzy3V2/view?usp=sharing",
     "social":[
       {
         "name":"twitter",
@@ -78,32 +78,28 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"80%"
+        "name": "JavaScript",
+        "level": "75%"
       },
       {
-        "name":"JavaScript",
-        "level":"75%"
+        "name": "ReactJs",
+        "level": "80%"
       },
       {
-        "name":"ReactJs",
-        "level":"70%"
+        "name": "ReactNative",
+        "level": "80%"
       },
       {
-        "name":"CSS",
-        "level":"80%"
+        "name": "CSS3 & HTML5",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "Node.Js",
+        "level": "70%"
       },
       {
-        "name":"Node.Js",
-        "level":"60%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "MongoDB",
+        "level": "80%"
       }
     ]
   },
@@ -141,10 +137,10 @@
         "url":"https://github.com/irisyeung0725/Convenie.git"
       },
       {
-        "title":"Personal Profile based on React.Js",
-        "category":"Personal profile, deploied by Github pages and React.js",
-        "image":"pro1.png",
-        "url":"https://github.com/ShuangChenGust/ReactProfile"
+        "title": "React TV Demo",
+        "category": "A TV programlist based on TMDB API, support movie Trailer, host by Firebase",
+        "image": "reacttv.png",
+        "url": "https://react-tvdemo.web.app/"
       }
     ]
   },
