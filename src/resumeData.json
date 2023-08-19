@@ -1,17 +1,17 @@
 {
   "main": {
     "name":"Shuang Chen",
-    "occupation":"Front-end UI developer",
+    "occupation":"Senior Software Engineer",
     "description":", with hands-on experience on building web applications, currently focused on React, Node.Js, SQL/NonSQL databases and unit testing| Python, Javascript, TypeScript, Java",
     "image":"profilepic.jpg",
-    "bio":"I am Shuang Chen, a front-end software developer. Focused on React, Node.Js recently. I am an open-mind person and always willing to learn new stuffs.",
+    "bio":"I am Shuang Chen, a software engineer. Focused on full-stack development recently. I am an open-mind person and always willing to learn new stuffs.",
     "contactmessage":"Feel free to drop me an mail about the SD openings! Actinvely seeking jobs",
-    "email": "guschenwpi@gmail.com",
+    "email": "schen8w@gmail.com",
       "address":{
-        "street":"MA, USA"
+        "street":"MD, USA"
     },
     "website": "https://www.linkedin.com/in/shuang-chen-388548159/",
-    "resumedownload":"https://drive.google.com/file/d/1yAbBLVsOB1whj_X3mvSVXuRDN8KLPzhh/view?usp=sharing",
+    "resumedownload":"https://docs.google.com/document/d/106HiUAIdeQQtrG8wC8QePRBYL0dAxkM2/edit?usp=drive_link&ouid=118231287226228205463&rtpof=true&sd=true",
     "social":[
       {
         "name":"twitter",
@@ -51,21 +51,21 @@
       },
       {
         "school":"East China University of Science And Technology",
-        "degree":"BS in Business Management, MIS track",
+        "degree":"Management Information System",
         "graduated":"Spring 2018",
         "description":"3 years-scholorship owner, caption of Tennis team. Did workds related to different industry: E-commerce business owner, Education, Marketing, Teaching, Consulting, IT. Dare to make mistakes and always willing to learn."
       }
     ],
     "work":[
       {
-        "company":"Marlabs Inc",
-        "title":"Full-stack UI developer",
+        "company":"Verizon",
+        "title":"Senior Software Engineer",
         "years":"June 2020 - Present",
-        "description":"Analyzed clients' business logic and requirements, build single page application for clients in health care industry, based on MERN(MongoDB, Express.Js, React.Js, Node.Js) stack technologies, implement security features based on Node.Js"
+        "description":"Built industry standard application for Verizon business"
       },
       {
         "company":"Toucan Toco",
-        "title":"System development/ Data Analyst Intern",
+        "title":"System Analyst",
         "years":"Feb 2020 - May 2020",
         "description":"Based on Clients' business mode, Creating Data visulization dashboards based on Mongo Charts/ D3.Js, integrating dashboards into Web-based Reports. Configuring and testing Python ODBC(open sources databases connectors) with databases."
       },
@@ -79,15 +79,15 @@
     "skills":[
       {
         "name":"Git",
-        "level":"80%"
+        "level":"100%"
       },
       {
         "name":"JavaScript",
-        "level":"75%"
+        "level":"90%"
       },
       {
         "name":"ReactJs",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"CSS",
