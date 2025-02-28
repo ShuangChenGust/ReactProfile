@@ -1,156 +1,106 @@
 {
   "main": {
-    "name":"Shuang Chen",
-    "occupation":"Senior Software Engineer",
-    "description":", with hands-on experience on building web applications, currently focused on React, Node.Js, SQL/NonSQL databases and unit testing| Python, Javascript, TypeScript, Java",
-    "image":"profilepic.jpg",
-    "bio":"I am Shuang Chen, a software engineer. Focused on full-stack development recently. I am an open-mind person and always willing to learn new stuffs.",
-    "contactmessage":"Feel free to drop me an mail about the SD openings! Actinvely seeking jobs",
+    "name": "Shuang Chen",
+    "occupation": "Senior Software Engineer",
+    "description": ", with hands-on experience building scalable web applications, AI integrations, and cloud-based solutions. Proficient in React, Angular, Node.js, Python, Java, SQL/NoSQL databases, and microservices architecture.",
+    "image": "profilepic.jpg",
+    "bio": "I am Shuang Chen, a passionate software engineer with expertise in full-stack development and AI-driven solutions. Always open to learning new technologies and innovating in cloud computing and AI-enhanced applications.",
+    "contactmessage": "Feel free to drop me an email about software development opportunities! Actively seeking new challenges.",
     "email": "schen8w@gmail.com",
-      "address":{
-        "street":"MD, USA"
+    "address": {
+      "street": "MD, USA"
     },
     "website": "https://www.linkedin.com/in/shuang-chen-388548159/",
-    "resumedownload":"https://docs.google.com/document/d/106HiUAIdeQQtrG8wC8QePRBYL0dAxkM2/edit?usp=drive_link&ouid=118231287226228205463&rtpof=true&sd=true",
-    "social":[
+    "resumedownload": "https://docs.google.com/document/d/106HiUAIdeQQtrG8wC8QePRBYL0dAxkM2/edit?usp=drive_link&ouid=118231287226228205463&rtpof=true&sd=true",
+    "social": [
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shuang-chen-388548159/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"google-plus",
-        "url":"mailto:guschenwpi@gmail.com",
-        "className":"fa fa-envelope"
+        "name": "github",
+        "url": "https://github.com/ShuangChenGust",
+        "className": "fa fa-github"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/shuang-chen-388548159/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/ShuangChenGust",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-newspaper-o"
+        "name": "google-plus",
+        "url": "mailto:guschenwpi@gmail.com",
+        "className": "fa fa-envelope"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Front-end development/ UI development/ Data Structure && Algorithm",
-    "education":[
+  "resume": {
+    "skillmessage": "Full-stack development | AI & Cloud Integration | System Design & Architecture",
+    "education": [
       {
-        "school":"Worcester Polytechnic Institute",
-        "degree":"Masters of Science in Information Technology",
-        "graduated":"Summer 2020",
-        "description":"Merit-Based Scholar ship owner, GPA 3.85. Main Courses: Database development and Application, Machine learning on Business Application, System design and development, Algorihm and Data Structure"
+        "school": "Worcester Polytechnic Institute",
+        "degree": "Master of Science in Information Technology",
+        "graduated": "Summer 2020",
+        "description": "Merit-based scholarship recipient, GPA 3.85. Key courses: Database Development, Machine Learning for Business, System Design, Algorithms & Data Structures."
       },
       {
-        "school":"East China University of Science And Technology",
-        "degree":"Management Information System",
-        "graduated":"Spring 2018",
-        "description":"3 years-scholorship owner, caption of Tennis team. Did workds related to different industry: E-commerce business owner, Education, Marketing, Teaching, Consulting, IT. Dare to make mistakes and always willing to learn."
+        "school": "East China University of Science And Technology",
+        "degree": "Management Information System",
+        "graduated": "Spring 2018",
+        "description": "Three-year scholarship recipient, captain of the tennis team. Worked across multiple industries, including e-commerce, education, consulting, and IT."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Verizon",
-        "title":"Senior Software Engineer",
-        "years":"June 2020 - Present",
-        "description":"Built industry standard application for Verizon business"
+        "company": "Intel",
+        "title": "Senior Software Engineer",
+        "years": "May 2024 - Present",
+        "description": "Developed and deployed an AI-driven chatbot for Intel's Maestro system, enabling efficient customer support. Led the migration of Intel's hardware management system to the U.S., optimizing remote device control. Built microservices-based backend solutions using Python, Node.js, and Java, integrated with AI-powered tools for enhanced development productivity."
       },
       {
-        "company":"Toucan Toco",
-        "title":"System Analyst",
-        "years":"Feb 2020 - May 2020",
-        "description":"Based on Clients' business mode, Creating Data visulization dashboards based on Mongo Charts/ D3.Js, integrating dashboards into Web-based Reports. Configuring and testing Python ODBC(open sources databases connectors) with databases."
+        "company": "Capital One",
+        "title": "Senior UI Developer",
+        "years": "Jan 2022 - May 2024",
+        "description": "Led UI design and development for major financial product lines using Angular and Vue.js. Implemented AI-based testing with Applitools and Cypress, enhancing development efficiency. Developed reusable components and modernized legacy applications for better performance and maintainability."
       },
       {
-        "company":"Daimler China",
-        "title":"Strategy Consultant Intern ",
-        "years":"Dec 2017- Aug 2018",
-        "description":"Tracked the Market dynamic information via Python packages. Greatly decrease the workload of market information collection. Analyzed the Mercedes-Benz's competitors, including marketing strategy, financial and management status."
+        "company": "Verizon",
+        "title": "Senior Software Engineer",
+        "years": "Dec 2020 – Dec 2021",
+        "description": "Developed microservices and micro-frontend applications for Verizon’s 5G business. Designed and optimized backend APIs using Node.js and Java Spring Boot. Implemented GraphQL-based authentication and role-based access control for enhanced security."
       }
     ],
-    "skills":[
-      {
-        "name":"Git",
-        "level":"100%"
-      },
-      {
-        "name":"JavaScript",
-        "level":"90%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"80%"
-      },
-      {
-        "name":"CSS",
-        "level":"80%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"Node.Js",
-        "level":"60%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
-      }
+    "skills": [
+      { "name": "React", "level": "90%" },
+      { "name": "Angular", "level": "85%" },
+      { "name": "Node.js", "level": "85%" },
+      { "name": "Python", "level": "80%" },
+      { "name": "Java", "level": "75%" },
+      { "name": "GraphQL", "level": "80%" },
+      { "name": "AWS", "level": "80%" }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Patients Information System",
-        "category":"Projects for search/update patients information",
-        "image":"p2.png",
-        "url":"https://github.com/ShuangChenGust/PatientInformationSystem_React"
+        "title": "AI-Powered Maestro Chatbot",
+        "category": "An AI chatbot for Intel’s hardware management system, providing automated support and remote device control.",
+        "image": "p2.png",
+        "url": "https://github.com/ShuangChenGust"
       },
       {
-        "title":"WPI Funding Application System",
-        "category":"Funding Application system for WPI officers, easy for both Professor and adminstrators to track funding Applications",
-        "image":"wpi1.png",
-        "document":"https://drive.google.com/file/d/12b3gb-gbxdF-tCYhT0CzmVHYQmt-oA96/view?usp=sharing",
-        "url":"https://mis573f19pgroup3100-sandbox.mxapps.io/login.html?profile=Responsive"
-      },
-      {
-        "title":"Restaurant Menu React Project",
-        "category":"This is a Project to help restaurant owner to build their restaurant website",
-        "image":"res2.png",
-        "url":"https://github.com/ShuangChenGust/ShuangReactapp"
-      },
-      {
-        "title":"Mern_stack Login",
-        "category":"A MERN-stack project for designing login features based on MERN stack",
-        "image":"mern1.png",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Convinee Shop Android Application",
-        "category":"A project for convenince shop owner, based on android studio platform",
-        "image":"con1.png",
-        "url":"https://github.com/irisyeung0725/Convenie.git"
+        "title": "TDM One Source - Capital One",
+        "category": "An internal testing platform for managing credit card rewards and adjustments, built with Angular and integrated with AI testing frameworks.",
+        "image": "tdm.png",
+        "url": "https://github.com/ShuangChenGust"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Stay Hungry, Stay Foolish",
-        "user":"Steve Jobs"
+        "text": "Stay Hungry, Stay Foolish",
+        "user": "Steve Jobs"
       },
       {
-        "text":"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
-        "user":"Samuel Beckett"
+        "text": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+        "user": "Samuel Beckett"
       }
     ]
   }
