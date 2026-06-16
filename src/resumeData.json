@@ -1,14 +1,18 @@
 {
   "main": {
     "name": "Shuang Chen",
-    "occupation": "Senior Software Engineer",
-    "description": ", with hands-on experience building scalable web applications, AI integrations, and cloud-based solutions. Proficient in React, Angular, Node.js, Python, Java, SQL/NoSQL databases, and microservices architecture.",
+    "occupation": "AI Engineer",
+    "description": "specializing in LLM applications, RAG pipelines, and cloud-native AI services. Proficient in Python, TypeScript, JavaScript, React, FastAPI, LangChain, and AWS",
     "image": "profilepic.jpg",
-    "bio": "I am Shuang Chen, a passionate software engineer with expertise in full-stack development and AI-driven solutions. Always open to learning new technologies and innovating in cloud computing and AI-enhanced applications.",
-    "contactmessage": "Feel free to drop me an email about software development opportunities! Actively seeking new challenges.",
+    "bio": "I am Shuang Chen, an AI Engineer with a strong full-stack background. I architect enterprise AI chatbot platforms, design RAG pipelines with semantic search, and build scalable cloud-native AI services. Passionate about leveraging LLMs and conversational AI to solve real-world problems.",
+    "contactmessage": "Feel free to reach out about AI engineering or software development opportunities!",
     "email": "schen8w@gmail.com",
+    "phone": "(508) 615-3172",
     "address": {
-      "street": "MD, USA"
+      "street": "Bethesda, MD",
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": ""
     },
     "website": "https://www.linkedin.com/in/shuang-chen-388548159/",
     "resumedownload": "https://docs.google.com/document/d/106HiUAIdeQQtrG8wC8QePRBYL0dAxkM2/edit?usp=drive_link&ouid=118231287226228205463&rtpof=true&sd=true",
@@ -24,70 +28,88 @@
         "className": "fa fa-github"
       },
       {
-        "name": "google-plus",
-        "url": "mailto:guschenwpi@gmail.com",
+        "name": "email",
+        "url": "mailto:schen8w@gmail.com",
         "className": "fa fa-envelope"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Full-stack development | AI & Cloud Integration | System Design & Architecture",
+    "skillmessage": "AI/ML Engineering | Full-Stack Development | Cloud Infrastructure",
     "education": [
       {
         "school": "Worcester Polytechnic Institute",
         "degree": "Master of Science in Information Technology",
-        "graduated": "Summer 2020",
-        "description": "Merit-based scholarship recipient, GPA 3.85. Key courses: Database Development, Machine Learning for Business, System Design, Algorithms & Data Structures."
+        "graduated": "2020",
+        "description": "Merit-based scholarship recipient, GPA 3.85/4.0. Key courses: Database Development, Machine Learning for Business, System Design, Algorithms & Data Structures."
       },
       {
-        "school": "East China University of Science And Technology",
-        "degree": "Management Information System",
-        "graduated": "Spring 2018",
-        "description": "Three-year scholarship recipient, captain of the tennis team. Worked across multiple industries, including e-commerce, education, consulting, and IT."
+        "school": "East China University of Science and Technology",
+        "degree": "B.S. in Business Management (MIS), Minor in German",
+        "graduated": "2018",
+        "description": "Three-year scholarship recipient, captain of the tennis team. Cross-industry experience spanning e-commerce, education, consulting, and IT."
       }
     ],
     "work": [
       {
+        "company": "Fannie Mae",
+        "title": "AI Engineer",
+        "years": "May 2025 - Present",
+        "description": "Architecting enterprise-grade AI chatbot platforms using Streamlit, LangChain, FastAPI, OpenAI APIs, and vector embeddings. Designing RAG pipelines with semantic search and context engineering. Building scalable cloud-native AI services on AWS ECS, Lambda, S3, and RDS."
+      },
+      {
         "company": "Intel",
         "title": "Senior Software Engineer",
-        "years": "May 2024 - Present",
-        "description": "Developed and deployed an AI-driven chatbot for Intel's Maestro system, enabling efficient customer support. Led the migration of Intel's hardware management system to the U.S., optimizing remote device control. Built microservices-based backend solutions using Python, Node.js, and Java, integrated with AI-powered tools for enhanced development productivity."
+        "years": "May 2024 - May 2025",
+        "description": "Designed AI-powered conversational systems for Intel Maestro using NLP, LLM orchestration, and prompt engineering. Developed Python and FastAPI backend services supporting distributed GPU infrastructure management. Led migration of high-availability infrastructure from Europe to U.S.-based cloud environments."
       },
       {
         "company": "Capital One",
-        "title": "Senior UI Developer",
+        "title": "Senior Software Engineer",
         "years": "Jan 2022 - May 2024",
-        "description": "Led UI design and development for major financial product lines using Angular and Vue.js. Implemented AI-based testing with Applitools and Cypress, enhancing development efficiency. Developed reusable components and modernized legacy applications for better performance and maintainability."
+        "description": "Developed scalable enterprise applications for major financial platforms. Implemented reusable frontend architectures and API integrations with high availability. Integrated AI-assisted testing tools including Applitools and Cypress to automate visual regression testing."
       },
       {
         "company": "Verizon",
-        "title": "Senior Software Engineer",
-        "years": "Dec 2020 – Dec 2021",
-        "description": "Developed microservices and micro-frontend applications for Verizon’s 5G business. Designed and optimized backend APIs using Node.js and Java Spring Boot. Implemented GraphQL-based authentication and role-based access control for enhanced security."
+        "title": "Front End Engineer",
+        "years": "Dec 2020 - Dec 2021",
+        "description": "Implemented scalable micro-frontend SPA architectures using React, Angular, and Vue. Developed RESTful APIs and optimized backend query systems with TypeScript, reducing response latency by over 50%. Built reusable enterprise UI component libraries."
       }
     ],
     "skills": [
-      { "name": "React", "level": "90%" },
-      { "name": "Angular", "level": "85%" },
-      { "name": "Node.js", "level": "85%" },
-      { "name": "Python", "level": "80%" },
-      { "name": "Java", "level": "75%" },
-      { "name": "GraphQL", "level": "80%" },
-      { "name": "AWS", "level": "80%" }
+      { "name": "Python", "level": "90%" },
+      { "name": "LangChain/RAG", "level": "88%" },
+      { "name": "React", "level": "88%" },
+      { "name": "FastAPI", "level": "85%" },
+      { "name": "AWS", "level": "85%" },
+      { "name": "TypeScript", "level": "85%" },
+      { "name": "Node.js", "level": "82%" }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "AI-Powered Maestro Chatbot",
-        "category": "An AI chatbot for Intel’s hardware management system, providing automated support and remote device control.",
+        "title": "Enterprise AI Chatbot Platform",
+        "category": "AI chatbot platform using Streamlit, LangChain, FastAPI, and OpenAI APIs for natural language interaction with financial datasets at Fannie Mae.",
+        "image": "p2.png",
+        "url": "https://github.com/ShuangChenGust"
+      },
+      {
+        "title": "Intel Maestro AI Conversational System",
+        "category": "AI-powered conversational system using NLP and LLM orchestration for enterprise support operations at Intel.",
         "image": "p2.png",
         "url": "https://github.com/ShuangChenGust"
       },
       {
         "title": "TDM One Source - Capital One",
-        "category": "An internal testing platform for managing credit card rewards and adjustments, built with Angular and integrated with AI testing frameworks.",
-        "image": "tdm.png",
+        "category": "Internal testing platform for managing credit card rewards and adjustments, built with Angular and AI testing frameworks.",
+        "image": "p2.png",
+        "url": "https://github.com/ShuangChenGust"
+      },
+      {
+        "title": "Tennis Coach Finder",
+        "category": "Full-stack web and mobile app connecting students with tennis coaches. React/Vite frontend, Express backend, Expo mobile app with Stripe integration.",
+        "image": "p2.png",
         "url": "https://github.com/ShuangChenGust"
       }
     ]

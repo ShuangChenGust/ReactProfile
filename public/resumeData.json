@@ -1,28 +1,22 @@
 {
   "main": {
     "name": "Shuang Chen",
-    "occupation": "Front-end UI developer",
-    "description": "with hands-on experience on building web applications, currently focused on React, Node.Js, SQL/NonSQL databases and unit testing| Python, Javascript, TypeScript, Java",
+    "occupation": "AI Engineer",
+    "description": "specializing in LLM applications, RAG pipelines, and cloud-native AI services. Proficient in Python, TypeScript, JavaScript, React, FastAPI, LangChain, and AWS",
     "image": "profilepic.jpg",
-    "bio": "I am Shuang Chen, a front-end software developer. Focused on React, React Native and Node.Js recently. I am an open-mind person and always willing to learn new stuffs.",
-    "contactmessage": "Feel free to drop me an mail about the SD openings! Actinvely seeking jobs",
-    "email": "guschenwpi@gmail.com",
+    "bio": "I am Shuang Chen, an AI Engineer with a strong full-stack background. I architect enterprise AI chatbot platforms, design RAG pipelines with semantic search, and build scalable cloud-native AI services. Passionate about leveraging LLMs and conversational AI to solve real-world problems.",
+    "contactmessage": "Feel free to reach out about AI engineering or software development opportunities!",
+    "email": "schen8w@gmail.com",
+    "phone": "(508) 615-3172",
     "address": {
-      "street": "MA, USA"
+      "street": "Bethesda, MD",
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": ""
     },
     "website": "https://www.linkedin.com/in/shuang-chen-388548159/",
-    "resumedownload": "https://drive.google.com/file/d/1v1kLjm9_HwJJeubzbbHvOXjZGfTzy3V2/view?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/106HiUAIdeQQtrG8wC8QePRBYL0dAxkM2/edit?usp=drive_link&ouid=118231287226228205463&rtpof=true&sd=true",
     "social": [
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "google-plus",
-        "url": "mailto:guschenwpi@gmail.com",
-        "className": "fa fa-envelope"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/shuang-chen-388548159/",
@@ -34,113 +28,89 @@
         "className": "fa fa-github"
       },
       {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-newspaper-o"
+        "name": "email",
+        "url": "mailto:schen8w@gmail.com",
+        "className": "fa fa-envelope"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Front-end development/ UI development/ Data Structure && Algorithm",
+    "skillmessage": "AI/ML Engineering | Full-Stack Development | Cloud Infrastructure",
     "education": [
       {
         "school": "Worcester Polytechnic Institute",
-        "degree": "Masters of Science in Information Technology",
-        "graduated": "Summer 2020",
-        "description": "Merit-Based Scholar ship owner, GPA 3.85. Main Courses: Database development and Application, Machine learning on Business Application, System design and development, Algorihm and Data Structure"
+        "degree": "Master of Science in Information Technology",
+        "graduated": "2020",
+        "description": "Merit-based scholarship recipient, GPA 3.85/4.0. Key courses: Database Development, Machine Learning for Business, System Design, Algorithms & Data Structures."
       },
       {
-        "school": "East China University of Science And Technology",
-        "degree": "BS in Business Management, MIS track",
-        "graduated": "Spring 2018",
-        "description": "3 years-scholorship owner, caption of Tennis team. Did workds related to different industry: E-commerce business owner, Education, Marketing, Teaching, Consulting, IT. Dare to make mistakes and always willing to learn."
+        "school": "East China University of Science and Technology",
+        "degree": "B.S. in Business Management (MIS), Minor in German",
+        "graduated": "2018",
+        "description": "Three-year scholarship recipient, captain of the tennis team. Cross-industry experience spanning e-commerce, education, consulting, and IT."
       }
     ],
     "work": [
       {
-        "company": "Marlabs Inc",
-        "title": "Full-stack UI developer",
-        "years": "June 2020 - Present",
-        "description": "Analyzed clients' business logic and requirements, build single page application for clients in health care industry, based on MERN(MongoDB, Express.Js, React.Js, Node.Js) stack technologies, implement security features based on Node.Js"
+        "company": "Fannie Mae",
+        "title": "AI Engineer",
+        "years": "May 2025 - Present",
+        "description": "Architecting enterprise-grade AI chatbot platforms using Streamlit, LangChain, FastAPI, OpenAI APIs, and vector embeddings. Designing RAG pipelines with semantic search and context engineering. Building scalable cloud-native AI services on AWS ECS, Lambda, S3, and RDS."
       },
       {
-        "company": "Toucan Toco",
-        "title": "System development/ Data Analyst Intern",
-        "years": "Feb 2020 - May 2020",
-        "description": "Based on Clients' business mode, Creating Data visulization dashboards based on Mongo Charts/ D3.Js, integrating dashboards into Web-based Reports. Configuring and testing Python ODBC(open sources databases connectors) with databases."
+        "company": "Intel",
+        "title": "Senior Software Engineer",
+        "years": "May 2024 - May 2025",
+        "description": "Designed AI-powered conversational systems for Intel Maestro using NLP, LLM orchestration, and prompt engineering. Developed Python and FastAPI backend services supporting distributed GPU infrastructure management. Led migration of high-availability infrastructure from Europe to U.S.-based cloud environments."
       },
       {
-        "company": "Daimler China",
-        "title": "Strategy Consultant Intern ",
-        "years": "Dec 2017- Aug 2018",
-        "description": "Tracked the Market dynamic information via Python packages. Greatly decrease the workload of market information collection. Analyzed the Mercedes-Benz's competitors, including marketing strategy, financial and management status."
+        "company": "Capital One",
+        "title": "Senior Software Engineer",
+        "years": "Jan 2022 - May 2024",
+        "description": "Developed scalable enterprise applications for major financial platforms. Implemented reusable frontend architectures and API integrations with high availability. Integrated AI-assisted testing tools including Applitools and Cypress to automate visual regression testing."
+      },
+      {
+        "company": "Verizon",
+        "title": "Front End Engineer",
+        "years": "Dec 2020 - Dec 2021",
+        "description": "Implemented scalable micro-frontend SPA architectures using React, Angular, and Vue. Developed RESTful APIs and optimized backend query systems with TypeScript, reducing response latency by over 50%. Built reusable enterprise UI component libraries."
       }
     ],
     "skills": [
-      {
-        "name": "JavaScript",
-        "level": "75%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "80%"
-      },
-      {
-        "name": "ReactNative",
-        "level": "80%"
-      },
-      {
-        "name": "CSS3 & HTML5",
-        "level": "90%"
-      },
-      {
-        "name": "Node.Js",
-        "level": "70%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
-      }
+      { "name": "Python", "level": "90%" },
+      { "name": "LangChain/RAG", "level": "88%" },
+      { "name": "React", "level": "88%" },
+      { "name": "FastAPI", "level": "85%" },
+      { "name": "AWS", "level": "85%" },
+      { "name": "TypeScript", "level": "85%" },
+      { "name": "Node.js", "level": "82%" }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Patients Information System",
-        "category": "Projects for search/update patients information",
+        "title": "Enterprise AI Chatbot Platform",
+        "category": "AI chatbot platform using Streamlit, LangChain, FastAPI, and OpenAI APIs for natural language interaction with financial datasets at Fannie Mae.",
         "image": "p2.png",
-        "url": "https://github.com/ShuangChenGust/PatientInformationSystem_React"
+        "url": "https://github.com/ShuangChenGust"
       },
       {
-        "title": "WPI Funding Application System",
-        "category": "Funding Application system for WPI officers, easy for both Professor and adminstrators to track funding Applications",
-        "image": "wpi1.png",
-        "document": "https://drive.google.com/file/d/12b3gb-gbxdF-tCYhT0CzmVHYQmt-oA96/view?usp=sharing",
-        "url": "https://mis573f19pgroup3100-sandbox.mxapps.io/login.html?profile=Responsive"
+        "title": "Intel Maestro AI Conversational System",
+        "category": "AI-powered conversational system using NLP and LLM orchestration for enterprise support operations at Intel.",
+        "image": "p2.png",
+        "url": "https://github.com/ShuangChenGust"
       },
       {
-        "title": "Restaurant Menu React Project",
-        "category": "This is a Project to help restaurant owner to build their restaurant website",
-        "image": "res2.png",
-        "url": "https://github.com/ShuangChenGust/ShuangReactapp"
+        "title": "TDM One Source - Capital One",
+        "category": "Internal testing platform for managing credit card rewards and adjustments, built with Angular and AI testing frameworks.",
+        "image": "p2.png",
+        "url": "https://github.com/ShuangChenGust"
       },
       {
-        "title": "Mern_stack Login",
-        "category": "A MERN-stack project for designing login features based on MERN stack",
-        "image": "mern1.png",
-        "url": "https://github.com/ShuangChenGust/MERNstackLogin"
-      },
-      {
-        "title": "Convinee Shop Android Application",
-        "category": "A project for convenince shop owner, based on android studio platform",
-        "image": "con1.png",
-        "url": "https://github.com/irisyeung0725/Convenie.git"
-      },
-      {
-        "title": "React TV Demo",
-        "category": "A TV programlist based on TMDB API, support movie Trailer, host by Firebase",
-        "image": "reacttv.png",
-        "url": "https://react-tvdemo.web.app/"
+        "title": "Tennis Coach Finder",
+        "category": "Full-stack web and mobile app connecting students with tennis coaches. React/Vite frontend, Express backend, Expo mobile app with Stripe integration.",
+        "image": "p2.png",
+        "url": "https://github.com/ShuangChenGust"
       }
     ]
   },
